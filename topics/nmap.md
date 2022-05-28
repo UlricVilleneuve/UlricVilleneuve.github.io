@@ -1,3 +1,7 @@
+---
+layout: default-w-nav
+---
+
 Port scan only -> ```nmap -Pn <ip>```
 
 -F for fast -> ```nmap -F <ip>```
