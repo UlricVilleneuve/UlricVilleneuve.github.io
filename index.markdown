@@ -3,11 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default-w-nav
+page-title: CyberSecurity Notes
 ---
-# CyberSecurity Notes
-
-// generate automatically from _data/topics.yml
 ## Topics
-- [john](topics/john.html)
-- [gobuster](topics/gobuster.html)
-- [nmap](topics/nmap.html)
+{% for topic in site.data.topics.topics %}
+- [{{ topic.title }}]({{ topic.url }})
+{% endfor %}

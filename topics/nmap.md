@@ -1,5 +1,6 @@
 ---
 layout: default-w-nav
+page-title: Recon with nmap
 ---
 
 Port scan only -> ```nmap -Pn <ip>```
