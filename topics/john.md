@@ -1,5 +1,5 @@
 ---
-layout: default-w-nav
+layout: topics
 page-title: Hash cracking with John
 ---
 
