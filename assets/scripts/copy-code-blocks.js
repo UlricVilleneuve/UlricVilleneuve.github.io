@@ -2,7 +2,8 @@ const copyCodeButtons = $('.copy-code-button');
 copyCodeButtons.each(function(index, copyCodeButton) {
   copyCodeButton.addEventListener('click', () => {
     // Copy the code to the user's clipboard
-    window.navigator.clipboard.writeText(copyCodeButton.value);
+    window.navigator.clipboard.writeText($(this).parent().find('.code-to-copy').text());
+	//$('code')[0].textContent
 
     // Update the icon shown
 	let copy_svg = $(this).find('svg.octicon-copy');
