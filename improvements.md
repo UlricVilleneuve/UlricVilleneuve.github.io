@@ -11,6 +11,10 @@ page-title: Improvement ideas
 
 ## Content
 * add machines from THM with tags and description
+* consistency in the command examples (i.e. always use $VULN_IP instead of a fake IP)
+* always use front matter variables for code examples
+* add tmux conf?
+* add aliases?
 
 ## devOps
 * Add pre-commit validation (name of branch)
