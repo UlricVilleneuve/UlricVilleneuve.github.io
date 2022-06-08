@@ -31,4 +31,4 @@ vi: 'sudo vi' then ':!sh'
 
 vim: 'sudo vim' then ':!bash'
 
-xxd: Allows to read files and write to files. Can be used to read shadow, to try to crack user pass or to add an entry to passwd file to create a new root user
+xxd: Allows to read files and write to files. Can be used to read /etc/shadow, to try to crack user pass or to add an entry to /etc/passwd file to create a new root user
