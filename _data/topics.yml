@@ -2,9 +2,177 @@ topics:
 
 - title: Gobuster
   url: topics/gobuster.html
-
-- title: John
-  url: topics/john.html
   
 - title: nmap
   url: topics/nmap.html
+  
+- title: NSE
+  url: topics/nse.html
+  
+- title: Python
+  url: topics/python.html
+  
+- title: Netcat
+  url: topics/netcat.html
+  
+- title: wfuzz
+  url: topics/wfuzz.html
+  
+- title: SQLmap
+  url: topics/sqlmap.html
+  
+- title: SQLi
+  url: topics/sqli.html
+  
+- title: XSS
+  url: topics/xss.html
+  
+- title: Bash
+  url: topics/bash.html
+  
+- title: Enum4Linux
+  url: topics/enum4linux.html
+  
+- title: Command
+  url: topics/command.html
+  
+- title: samba
+  url: topics/samba.html
+  
+- title: LinEnum
+  url: topics/linenum.html
+  
+- title: SUID
+  url: topics/suid.html
+  
+- title: Metasploit
+  url: topics/metasploit.html
+  
+- title: EXIF
+  url: topics/exif.html
+  
+- title: DirtyCow
+  url: topics/dirtycow.html
+  
+- title: Scylla
+  url: topics/scylla.html
+  
+- title: Google
+  url: topics/google.html
+  
+- title: OSINT
+  url: topics/osint.html
+  
+- title: Radare2
+  url: topics/radare2.html
+  
+- title: CyberChef
+  url: topics/cyberchef.html
+  
+- title: Cracking
+  url: topics/cracking.html
+  
+- title: Shell stabilisation
+  url: topics/shellstab.html
+  
+- title: LXD escalation
+  url: topics/lxd.html
+  
+- title: Steganography
+  url: topics/steganography.html
+  
+- title: hydra
+  url: topics/hydra.html
+  
+- title: JohnTheRipper
+  url: topics/john.html
+  
+- title: hashcat
+  url: topics/hashcat.html
+  
+- title: hashid
+  url: topics/hashid.html
+  
+- title: chmod
+  url: topics/chmod.html
+  
+- title: ssh
+  url: topics/ssh.html
+  
+- title: NFS
+  url: topics/nfs.html
+  
+- title: Active directory
+  url: topics/activedirectory.html
+  
+- title: Kerbrute
+  url: topics/kerbrute.html
+  
+- title: Rubeus
+  url: topics/rubeus.html
+  
+- title: Mimikatz
+  url: topics/mimikatz.html
+  
+- title: Sysinternals
+  url: topics/sysinternals.html
+  
+- title: Remnux
+  url: topics/remnux.html
+  
+- title: Passwd
+  url: topics/passwd.html
+  
+- title: PATH
+  url: topics/path.html
+  
+- title: Jinja injection
+  url: topics/jinja.html
+  
+- title: Cewl
+  url: topics/cewl.html
+  
+- title: rot13
+  url: topics/rot13.html
+  
+- title: msfvenom
+  url: topics/msfvenom.html
+  
+- title: PowerUp
+  url: topics/powerup.html
+  
+- title: Tar wildcard injection
+  url: topics/tar.html
+  
+- title: Reverse shell
+  url: topics/reverseshell.html
+  
+- title: Web shells
+  url: topics/webshells.html
+  
+- title: nikto
+  url: topics/nikto.html
+  
+- title: Redis
+  url: topics/redis.html
+  
+- title: New root user
+  url: topics/newrootuser.html
+  
+- title: Windows
+  url: topics/windows.html
+  
+- title: Basic Web Recon
+  url: topics/basicwebrecon.html
+  
+- title: systemctl (SUID)
+  url: topics/systemctl.html
+  
+- title: procmon custom
+  url: topics/procmon.html
+  
+- title: ssh tunnel
+  url: topics/sshtunnel.html
+  
+- title: ssh-keygen
+  url: topics/sshkeygen.html
